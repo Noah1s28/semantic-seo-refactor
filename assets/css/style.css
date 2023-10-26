@@ -32,11 +32,11 @@ nav {
     font-size: 20px;
 }
 
-nav {
+nav ul {
     list-style-type: none;
 }
 
-nav div ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -187,14 +187,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/* footer div to footer tag */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* footer div to footer  tag */
+footer h2 {
     font-size: 20px;
 }
